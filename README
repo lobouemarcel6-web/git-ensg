@@ -1,0 +1,6 @@
+Suivre les etapes du projet 
+git add
+git commit -m "ajouter une precision"
+git pull
+git fetch 
+git pull 
